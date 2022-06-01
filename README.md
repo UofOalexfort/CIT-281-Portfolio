@@ -1,7 +1,7 @@
 # CIT-281-Portfolio
 Collection of coursework from CIT 281
 
-![image](https://canvas.uoregon.edu/courses/198787/files/13209143/preview)
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fvisual-studio-code-logo%2F&psig=AOvVaw3H3cUEjq3Zzj9HaSVG7uSR&ust=1654129120605000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCooqf9ivgCFQAAAAAdAAAAABAD)
 
 CIT 281 is the first course in cross-platform Web App Development, building on the skills you learned in CIS 110 and CIS 111. This course will focus on learning more advanced JavaScript techniques and methodologies, server-side JavaScript, REST and JSON, git and GitHub, advanced debugging, and using a number of emerging methods, tools, and technologies of the Web Platform.
 
