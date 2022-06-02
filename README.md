@@ -29,23 +29,23 @@ Project 7: Project 7 was creating this GitHub Page
 Labs:
 --
 
-[Lab 1](https://github.com/UofOalexfort/Lab-1)
+[Lab 1](https://uofoalexfort.github.io/Lab-1/)
 
-[Lab 2](https://github.com/UofOalexfort/Lab-2)
+[Lab 2](https://uofoalexfort.github.io/Lab-2/)
 
-[Lab 3](https://github.com/UofOalexfort/Lab-3)
+[Lab 3](https://uofoalexfort.github.io/Lab-3/)
 
-[Lab 4](https://github.com/UofOalexfort/Lab-4)
+[Lab 4](https://uofoalexfort.github.io/Lab-4/)
 
-[Lab 5](https://github.com/UofOalexfort/Lab-5)
+[Lab 5](https://uofoalexfort.github.io/Lab-5/)
 
-[Lab 6](https://github.com/UofOalexfort/Lab-6)
+[Lab 6](https://uofoalexfort.github.io/Lab-6/)
 
-[Lab 7](https://github.com/UofOalexfort/Lab-7-)
+[Lab 7](https://uofoalexfort.github.io/Lab-7-/)
 
-[Lab 8](https://github.com/UofOalexfort/Lab-8)
+[Lab 8](https://uofoalexfort.github.io/Lab-8/)
 
-[Lab 9](https://github.com/UofOalexfort/Lab-9-)
+[Lab 9](https://uofoalexfort.github.io/Lab-9-/)
 
 
 
