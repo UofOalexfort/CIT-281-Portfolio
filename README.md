@@ -1,4 +1,3 @@
-# CIT-281-Portfolio
 
 ![](https://canvas.uoregon.edu/courses/198787/files/13209143/preview)
 
