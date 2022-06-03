@@ -8,11 +8,11 @@ CIT 281 is the first course in cross-platform Web App Development. This course f
 
 Projects:
 
-[Project 1](https://github.com/UofOalexfort/Project-1-)
+[Project 1](https://uofoalexfort.github.io/Project-1/)
 
-[Project 2](https://github.com/UofOalexfort/Project-2)
+[Project 2](https://uofoalexfort.github.io/Project-2/)
 
-[Project 3](https://github.com/UofOalexfort/Project-3)
+[Project 3](https://uofoalexfort.github.io/Project-3/)
 
 [Project 4](https://github.com/UofOalexfort/Project-4) 
 
