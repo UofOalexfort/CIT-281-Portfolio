@@ -14,9 +14,9 @@ Projects:
 
 [Project 3](https://uofoalexfort.github.io/Project-3/)
 
-[Project 4](https://github.com/UofOalexfort/Project-4) 
+[Project 4](https://uofoalexfort.github.io/Project-4/) 
 
-[Project 6](https://github.com/UofOalexfort/Project-6)
+[Project 6](https://uofoalexfort.github.io/Project-6/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
