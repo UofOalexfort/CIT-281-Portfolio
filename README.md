@@ -33,11 +33,11 @@ Labs:
 
 [Lab 6](https://uofoalexfort.github.io/Lab-6/)
 
-[Lab 7](https://uofoalexfort.github.io/Lab-7-/)
+[Lab 7](https://uofoalexfort.github.io/Lab-7/)
 
 [Lab 8](https://uofoalexfort.github.io/Lab-8/)
 
-[Lab 9](https://uofoalexfort.github.io/Lab-9-/)
+[Lab 9](https://uofoalexfort.github.io/Lab-9/)
 
 
 
